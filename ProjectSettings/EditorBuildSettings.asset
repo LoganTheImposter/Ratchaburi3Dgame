@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SelectMission.unity
+    guid: 40628cba6d4f796468673a023af9a4bc
+  - enabled: 1
+    path: Assets/Scenes/PraticeMode.unity
+    guid: e1cd9340184695941990dd10bdb9fc62
+  - enabled: 1
+    path: Assets/Scenes/KhoaNgu.unity
+    guid: c60177a011a337f419a570c37ec23922
+  - enabled: 1
+    path: Assets/Scenes/TaoHongTai.unity
+    guid: e3447df236f52164d9f2e50df033bd42
+  - enabled: 1
+    path: Assets/Scenes/KhaoPratubChang.unity
+    guid: b31d40cc62cc8bf408baf585a5398a4f
+  - enabled: 1
+    path: Assets/Scenes/EndTHT.unity
+    guid: 0aaa16f84f9746c49848a8991675e884
+  - enabled: 1
+    path: Assets/Scenes/EndKN.unity
+    guid: 1698c2527d044844f98a803bde1684fb
+  - enabled: 1
+    path: Assets/Scenes/EndKP.unity
+    guid: 5f40fed19a36f5d44816dbe3d92c20c7
+  - enabled: 1
+    path: Assets/Scenes/TeachScene.unity
+    guid: 525f1b19c1de85e47ba44c06dbb8b5cd
+  m_configObjects: {}
